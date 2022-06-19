@@ -7,3 +7,4 @@
 docker 镜像: [docker hub](https://hub.docker.com/r/irinesistiana/mosdns)
 
 快速查找插件和其对应的 `args` 参数说明: [wiki/Plugin](https://github.com/IrineSistiana/mosdns/wiki/Plugin)
+
